@@ -1,0 +1,7 @@
+- пункты дз 2 и 4 находятся в fuel.go
+- пункты дз 3 и 5 находятся в fuel_test.go
+- пункт дз 6 находится в moveAndBurn.go (тесты к нему в moveAndBurn_test.go)
+- пункт дз 7 находится в macroCommand.go (тесты к нему в macroCommand_test.go)
+- пункт дз 8 находится в repeat.go
+- пункт дз 9 находится в repeat_test.go
+- пункт дз 10 назодится в game.go
